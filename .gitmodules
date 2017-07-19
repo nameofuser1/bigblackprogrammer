@@ -1,0 +1,6 @@
+[submodule "bigblackhardware"]
+	path = bigblackhardware
+	url = git@github.com:nameofuser1/bigblackhardware.git
+[submodule "bigblack_x86"]
+	path = bigblack_x86
+	url = git@github.com:nameofuser1/bigblack_x86.git
